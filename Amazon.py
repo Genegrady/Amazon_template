@@ -71,7 +71,7 @@ caps = [{
       'device': 'iPhone 12 Pro',
       'os_browser': '14',
       'real_mobile': 'true',
-      'name': 'Parallel Test4',
+      'name': 'Parallel Tests4',
       'build': build_name, # CI/CD job name using BROWSERSTACK_BUILD_NAME env variable
       'browserstack.local': browserstack_local,
       'browserstack.localIdentifier': browserstack_local_identifier,
